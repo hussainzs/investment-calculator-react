@@ -2,7 +2,8 @@
 
 This is an investment calculator built using React which allows users to input their current savings, yearly contribution, interest rate, and investment duration to calculate the investment results for each year.
 I built this to apply React concepts  with industry best practices.
-Ap hosted at: 
+
+Hosted at: https://hussainzs.github.io/investment-calculator-react/
 
 ## Features
 
